@@ -1,4 +1,4 @@
-# Landing Sayfalarım
+# Ürünlerim ve Projelerim
 
 ## İspatApp — fikir ve ürün yönü
 
@@ -9,3 +9,12 @@
 Matematik lisans mezunuyum. Yaklaşık 18 yıl önce bir matematik soru bankası yazdım. Matematik eğitimi, yapay zekâ ve araştırma arasındaki kesişimle; özellikle embedding’ler ve mekanistik yorumlanabilirlikle ilgileniyorum.
 
 [İspatApp proje deposu](https://github.com/Mountain-YZ/Mountain-ispatapp)
+
+## Ceramicce — seramik alanına yönelik mikro SaaS
+
+Ceramicce, seramik üreticilerinin ürün ve fiyatlandırma süreçlerine yönelik, aktif olarak üzerinde çalıştığım ayrı bir mikro SaaS projesi.
+
+Mevcut pilot sürümünde seramiğe özel fiyat hesaplama ve ürün yönetimi akışı bulunuyor. Pilot, kullanıcı hesaplarını ve ürün verilerini birbirinden ayırıyor; yüklenen ürün fotoğraflarına yalnızca ilgili kullanıcı erişebiliyor.
+
+**Durum:** Aktif pilot geliştirme. Kaynak kod deposu şu anda özel.
+
